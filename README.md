@@ -26,9 +26,12 @@ PORT=...
 MONGO_URI=...
 JWT_SECRET=...
 ```
+## 📂 Project Structure  
+```
 JobZee/
 │── backend/        # Express backend (routes, controllers, models)
 │── frontend/       # React frontend (components, pages, context)
 │── .gitignore      # Ignored files for Git
 │── README.md
+```
 
